@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+#container{
+    max-width: 500px;
+    margin: auto;
+    background-color: #17d3e8;
+    padding: 30px;
+    border-radius: 6px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+#btn{
+    width: 5rem;
+    height: 1rem;
+}
+#result{
+    display:none;
+}
